@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Low-Rank Digital Twin of Correlated Qubit Drift: Sentinel-Based Recalibration from 16 to 16 384 Qubits"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+repository-code: "https://github.com/pradeepdegalaroyal/low-rank-drift-twin-sentinel-recalibration"
+license: MIT
+version: 0.1.0
+date-released: 2026-11-09
+abstract: "Simulation study of whether a learned low-rank digital twin of correlated qubit-frequency drift, updated from a few sentinel qubits, reduces the Ramsey measurement cost of keeping an array calibrated, compared with periodic and per-qubit Kalman recalibration."
+keywords:
+  - quantum control
+  - digital twin
+  - calibration
+  - drift
