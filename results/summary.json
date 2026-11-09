@@ -1,0 +1,22 @@
+{
+  "quick": false,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "target_infidelity": 0.0003,
+  "budget_shots_per_qubit_hour": 600.0,
+  "validation": {
+    "gate_max_abs_diff": 2.5847379792054426e-16,
+    "ramsey_std_ratio_min": 0.9245623839800255,
+    "ramsey_std_ratio_max": 1.0211943744950975
+  },
+  "rank_selected_main": 3,
+  "commissioning_shots_per_qubit": 14400,
+  "ramsey_sigma_khz_100_shots": 15.915494309189535,
+  "analysis_rerun_seconds": 13.4,
+  "full_sweep_runtime_seconds": 356.5
+}
